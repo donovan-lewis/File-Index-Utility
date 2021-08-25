@@ -1,0 +1,7 @@
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Debug\CSVCreator.exe.config
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Debug\CSVCreator.exe
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Debug\CSVCreator.pdb
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Debug\CSVCreator.csproj.AssemblyReference.cache
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Debug\CSVCreator.csproj.CoreCompileInputs.cache
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Debug\CSVCreator.exe
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Debug\CSVCreator.pdb

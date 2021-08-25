@@ -1,0 +1,6 @@
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Release\CSVCreator.exe.config
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Release\CSVCreator.exe
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\bin\Release\CSVCreator.pdb
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Release\CSVCreator.csproj.CoreCompileInputs.cache
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Release\CSVCreator.exe
+C:\Users\dlewis\source\repos\CSVCreator\CSVCreator\obj\Release\CSVCreator.pdb
